@@ -96,7 +96,7 @@ RetailIQ-Analytics/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
-
+```
 
 
 
